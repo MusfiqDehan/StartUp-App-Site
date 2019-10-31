@@ -3,4 +3,10 @@
 
 Here is the screenshot of the <b>Title</b> section of my sample website : -
 <br><br>
+Desktop view:
+<br><br>
 <img src="images/TinDog-img.png" alt="dog-img">
+<br><br>
+Mobile View:
+<br><br>
+<img src="images/Screenshot-2.png" alt="dog-img-mobile">
