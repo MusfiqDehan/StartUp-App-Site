@@ -3,7 +3,7 @@
 
 Here is the screenshot of the <b>Title</b> section of my sample website : -
 <br><br>
-Desktop view:
+## Desktop view:
 <br><br>
 <img src="images/TinDog-img.png" alt="dog-img">
 <br><br>
