@@ -4,6 +4,8 @@ This is a sample starup app site. Anyone who wants to launch an app can use a si
 
 Here is the screenshot of the <b>Title</b> section of my sample website : -
 <br><br>
+<p align="center"><a href="https://github.com/MusfiqDehan/StartUp-App-Site/settings">Click here to view the full site<a/></p>
+<br>
 ## Desktop view:
 <img src="images/TinDog-img.png" alt="dog-img">
 <br><br>
