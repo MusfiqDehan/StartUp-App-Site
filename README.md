@@ -11,4 +11,4 @@
 <br><br>
 
 <h3 align="center">Mobile View</h3>
-<img src="images/Screenshot-2.png" alt="dog-img-mobile">
+<img align="center" src="images/Screenshot-2.png" alt="dog-img-mobile">
