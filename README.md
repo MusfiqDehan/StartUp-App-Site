@@ -5,7 +5,7 @@
   <br> <br>
 <h2 align="center">Screenshot of the <b>Title</b> Section Given Below</h2>
   
-## Desktop view:
+<h3 align="center">Desktop View</h3>
 <img src="images/TinDog-img.png" alt="dog-img">
 <br><br>
 
